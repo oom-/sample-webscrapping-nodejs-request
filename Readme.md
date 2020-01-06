@@ -1,5 +1,5 @@
 # Sample
-```
+```js
 let fs = require('fs');
 let REQUEST = require('request');
 const jsdom = require("jsdom");
